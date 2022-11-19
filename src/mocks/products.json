@@ -1,0 +1,51 @@
+[
+    {
+      "id": "1",
+      "name": "Intro",
+      "price": 19,
+      "types": [
+        {"all_limited_links": true},
+        {"analytics_platform": true},
+        {"chat_support": false},
+        {"optimize_hashtag": true},
+        {"unlimited": false}
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Base",
+      "price": 39,
+      "types": [
+        {"all_limited_links": true},
+        {"analytics_platform": false},
+        {"chat_support": true},
+        {"optimize_hashtag": true},
+        {"unlimited": false}
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Popular",
+      "price": 99,
+      "types": [
+        {"all_limited_links": true},
+        {"analytics_platform": true},
+        {"chat_support": true},
+        {"optimize_hashtag": true},
+        {"unlimited": false}
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Enterprise",
+      "price": 199,
+      "types": [
+        {"all_limited_links": true},
+        {"analytics_platform": true},
+        {"chat_support": false},
+        {"optimize_hashtag": true},
+        {"unlimited": true}
+      ]
+    }
+  ]
+  
